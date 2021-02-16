@@ -1,10 +1,10 @@
 {
-  "name": "blog",
-  "version": "1.0.0",
+  "name": "factorial",
+  "version": "1.0.1",
   "description": "Proyecto que testea la funcionalidad básica del app(llamadas y ejecución)",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test/*.js --timeout 15000"
+    "test": "mocha test/*.js"
   },
   "author": "Zamir Enriquez",
   "license": "ISC",
